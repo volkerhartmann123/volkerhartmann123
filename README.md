@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About me
+- 🔭 I’m currently working on seting up an ai company focused on llm
+- 🌱 I’m currently learning web technologies to set up the website for this project
+- 👯 I’m looking to collaborate on llm, ms azure storage, ms azure postgres, python
+- 🤔 I’m looking for help with llm integration and llm learning
+- 💬 Ask me about etl, sql, data vizualization
+- 📫 How to reach me: +49 176 57818073, volkerhartmann123@gmail.com
